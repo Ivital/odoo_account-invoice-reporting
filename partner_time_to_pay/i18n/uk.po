@@ -18,3 +18,39 @@ msgstr ""
 #: model:ir.model.fields,field_description:partner_time_to_pay.field_account_move__full_reconcile_payment_date
 msgid "Payment Date"
 msgstr "Дата платежу"
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_partner__d2p_ly
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_users__d2p_ly
+msgid "AVG Days to Payable (LY)"
+msgstr "Середня кількість днів до оплати (минулий рік)"
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_partner__d2p_ytd
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_users__d2p_ytd
+msgid "AVG Days to Payable (YTD)"
+msgstr "Середня кількість днів до оплати (з початку року)"
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_partner__d2p_life
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_users__d2p_life
+msgid "AVG Days to Payable (lifetime)"
+msgstr "Середня кількість днів до оплати (за весь час)"
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_partner__d2r_ly
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_users__d2r_ly
+msgid "AVG Days to Receivable (LY)"
+msgstr "Середня кількість днів до отримання (минулий рік)"
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_partner__d2r_ytd
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_users__d2r_ytd
+msgid "AVG Days to Receivable (YTD)"
+msgstr "Середня кількість днів до отримання (з початку року)"
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_partner__d2r_life
+#: model:ir.model.fields,field_description:partner_time_to_pay.field_res_users__d2r_life
+msgid "AVG Days to Receivable (lifetime)"
+msgstr "Середня кількість днів до отримання (за весь час)"

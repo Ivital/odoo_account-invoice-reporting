@@ -23,3 +23,21 @@ msgstr "Наліпки товарів"
 #: model:ir.model.fields,field_description:account_invoice_report_product_sticker.field_account_move__sticker_ids
 msgid "Stickers"
 msgstr "Наліпки"
+
+#. module: account_invoice_report_product_sticker
+#: model:ir.model.fields.selection,name:account_invoice_report_product_sticker.selection__account_move__show_product_stickers__bottom_left
+#: model:ir.model.fields.selection,name:account_invoice_report_product_sticker.selection__res_config_settings__show_product_stickers__bottom_left
+msgid "Bottom (left)"
+msgstr "Внизу (ліворуч)"
+
+#. module: account_invoice_report_product_sticker
+#: model:ir.model.fields,field_description:account_invoice_report_product_sticker.field_account_bank_statement_line__show_product_stickers
+#: model:ir.model.fields,field_description:account_invoice_report_product_sticker.field_account_move__show_product_stickers
+msgid "Show Product Stickers"
+msgstr "Показувати наліпки товару"
+
+#. module: account_invoice_report_product_sticker
+#: model:ir.model.fields.selection,name:account_invoice_report_product_sticker.selection__account_move__show_product_stickers__top_right
+#: model:ir.model.fields.selection,name:account_invoice_report_product_sticker.selection__res_config_settings__show_product_stickers__top_right
+msgid "Top (right)"
+msgstr "Вгорі (праворуч)"

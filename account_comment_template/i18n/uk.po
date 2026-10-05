@@ -22,3 +22,8 @@ msgstr "Коментарі"
 #: model:ir.ui.menu,name:account_comment_template.menu_base_comment_template_invoice
 msgid "Document Comments"
 msgstr "Коментарі до документів"
+
+#. module: account_comment_template
+#: model:ir.model.fields,field_description:account_comment_template.field_account_move__comment_template_ids
+msgid "Comment Template"
+msgstr "Шаблон коментаря"

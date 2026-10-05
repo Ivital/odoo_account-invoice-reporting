@@ -53,3 +53,28 @@ msgstr "Підполе"
 #: model:ir.model.fields,field_description:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__sub_object
 msgid "Sub-model"
 msgstr "Підмодель"
+
+#. module: account_invoice_payment_mode_note_template
+#: model_terms:ir.ui.view,arch_db:account_invoice_payment_mode_note_template.account_payment_mode_note_template_form_view
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,field_description:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__null_value
+msgid "Default Value"
+msgstr "Типове значення"
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,field_description:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,field_description:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: account_invoice_payment_mode_note_template
+#: model_terms:ir.ui.view,arch_db:account_invoice_payment_mode_note_template.account_payment_mode_note_template_form_view
+msgid "Validate"
+msgstr "Підтвердити"
