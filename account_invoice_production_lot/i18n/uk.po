@@ -18,3 +18,8 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:account_invoice_production_lot.view_move_form
 msgid "Production Lots"
 msgstr "Виробничі партії"
+
+#. module: account_invoice_production_lot
+#: model_terms:ir.ui.view,arch_db:account_invoice_production_lot.account_invoice_production_lot_report
+msgid "<b class=\"font-italic\">Serial numbers</b>"
+msgstr "<b class=\"font-italic\">Серійні номери</b>"

@@ -28,3 +28,14 @@ msgstr "З ціною"
 #: model_terms:ir.ui.view,arch_db:account_invoice_line_report.view_account_invoice_report_search
 msgid "Without Price"
 msgstr "Без ціни"
+
+#. module: account_invoice_line_report
+#: model_terms:ir.actions.act_window,help:account_invoice_line_report.action_account_invoice_line_report
+msgid ""
+"From this report, you can have an overview of the amount invoiced to your "
+"customers. The search tool can also be used to personalise your Invoices "
+"reports and so, match this analysis to your needs."
+msgstr ""
+"У цьому звіті можна переглянути загальну суму, виставлену вашим клієнтам. "
+"Інструмент пошуку також дає змогу персоналізувати звіти за рахунками та "
+"пристосувати цей аналіз до ваших потреб."

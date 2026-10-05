@@ -41,3 +41,20 @@ msgstr "Показувати наліпки товару"
 #: model:ir.model.fields.selection,name:account_invoice_report_product_sticker.selection__res_config_settings__show_product_stickers__top_right
 msgid "Top (right)"
 msgstr "Вгорі (праворуч)"
+
+#. module: account_invoice_report_product_sticker
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_product_sticker.res_config_settings_view_form
+msgid "<span class=\"o_form_label\">Product Stickers</span>"
+msgstr "<span class=\"o_form_label\">Етикетки товарів</span>"
+
+#. module: account_invoice_report_product_sticker
+#: model:ir.model.fields,help:account_invoice_report_product_sticker.field_account_bank_statement_line__show_product_stickers
+#: model:ir.model.fields,help:account_invoice_report_product_sticker.field_account_move__show_product_stickers
+#: model:ir.model.fields,help:account_invoice_report_product_sticker.field_res_config_settings__show_product_stickers
+msgid "Display Product Stickers on chosen position inside the report."
+msgstr "Відображати наклейки товару у вибраному місці звіту."
+
+#. module: account_invoice_report_product_sticker
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_product_sticker.res_config_settings_view_form
+msgid "Show Product Stickers on your Reports on:"
+msgstr "Показувати етикетки товарів у звітах на:"

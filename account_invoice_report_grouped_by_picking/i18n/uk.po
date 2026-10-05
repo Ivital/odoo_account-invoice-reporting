@@ -17,3 +17,39 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.view_account_journal_form_inherit_grouped_by_picking
 msgid "Invoice Report"
 msgstr "Звіт за рахунками"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.report_invoice_document
+msgid "<span>Order:</span>"
+msgstr "<span>Замовлення:</span>"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.report_invoice_document
+msgid "<span>Picking:</span>"
+msgstr "<span>Комплектування:</span>"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.report_invoice_document
+msgid ""
+"<strong>\n"
+"                            <span>Without reference</span>\n"
+"                        </strong>"
+msgstr ""
+"<strong>\n"
+"                            <span>Без посилання</span>\n"
+"                        </strong>"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.report_invoice_document
+msgid "<strong>Subtotal: </strong>"
+msgstr "<strong>Проміжний підсумок: </strong>"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model:ir.model.fields,field_description:account_invoice_report_grouped_by_picking.field_account_journal__show_group_by_picking_report
+msgid "Invoice Report - Show Grouped by Picking"
+msgstr "Звіт рахунка — показувати згруповано за переміщенням"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.view_account_journal_form_inherit_grouped_by_picking
+msgid "Show Grouped by Picking"
+msgstr "Показувати згруповано за переміщенням"
