@@ -90,3 +90,9 @@ msgstr "Середня кількість днів оплати вихідних
 #: model:ir.model.fields,help:partner_time_to_pay.field_res_users__d2r_life
 msgid "Average days of payment for outgoing invoices."
 msgstr "Середня кількість днів оплати вихідних рахунків."
+
+#. module: partner_time_to_pay
+#: model:ir.model.fields,help:partner_time_to_pay.field_account_bank_statement_line__full_reconcile_payment_date
+#: model:ir.model.fields,help:partner_time_to_pay.field_account_move__full_reconcile_payment_date
+msgid "Date when the complete reconciliation of this invoice occurred."
+msgstr "Дата, коли відбулося повне узгодження цього рахунку-фактури."

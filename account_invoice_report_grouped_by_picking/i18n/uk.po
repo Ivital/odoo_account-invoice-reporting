@@ -53,3 +53,12 @@ msgstr "Звіт рахунка — показувати згруповано з
 #: model_terms:ir.ui.view,arch_db:account_invoice_report_grouped_by_picking.view_account_journal_form_inherit_grouped_by_picking
 msgid "Show Grouped by Picking"
 msgstr "Показувати згруповано за переміщенням"
+
+#. module: account_invoice_report_grouped_by_picking
+#: model:ir.model.fields,help:account_invoice_report_grouped_by_picking.field_account_journal__show_group_by_picking_report
+msgid ""
+"Leave unmarked if original Odoo behavior (not grouped is required for "
+"invoices belonging this journal)."
+msgstr ""
+"Залиште непозначеним для типової поведінки Odoo (рахунки цього журналу мають"
+" залишатися незгрупованими)."

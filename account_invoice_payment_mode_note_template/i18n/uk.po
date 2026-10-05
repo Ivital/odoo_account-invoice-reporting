@@ -93,3 +93,47 @@ msgstr "Вираз заповнювача"
 #: model_terms:ir.ui.view,arch_db:account_invoice_payment_mode_note_template.account_payment_mode_form
 msgid "Update Note Template"
 msgstr "Оновити шаблон примітки"
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,help:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__copyvalue
+msgid ""
+"Final placeholder expression, to be copy-pasted in the desired template "
+"field."
+msgstr "Підсумковий вираз-заповнювач для копіювання у потрібне поле шаблону."
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,help:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__null_value
+msgid "Optional value to use if the target field is empty"
+msgstr "Необов’язкове значення, якщо цільове поле порожнє"
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model,name:account_invoice_payment_mode_note_template.model_account_payment_mode_note_template
+msgid "Payment Mode Note Template"
+msgstr "Шаблон примітки способу оплати"
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,help:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__model_object_field
+msgid ""
+"Select target field from the related document model.\n"
+"If it is a relationship field you will be able to select a target field at the destination of the relationship."
+msgstr ""
+"Виберіть цільове поле з моделі пов’язаного документа.\n"
+"Якщо це поле зв’язку, можна буде вибрати цільове поле в моделі призначення цього зв’язку."
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,help:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__sub_model_object_field
+msgid ""
+"When a relationship field is selected as first field, this field lets you "
+"select the target field within the destination document model (sub-model)."
+msgstr ""
+"Якщо першим вибрано поле зв’язку, це поле дає змогу вибрати цільове поле в "
+"моделі документа призначення (підмоделі)."
+
+#. module: account_invoice_payment_mode_note_template
+#: model:ir.model.fields,help:account_invoice_payment_mode_note_template.field_account_payment_mode_note_template__sub_object
+msgid ""
+"When a relationship field is selected as first field, this field shows the "
+"document model the relationship goes to."
+msgstr ""
+"Коли першим полем вибрано поле зв’язку, тут показується модель документа, до"
+" якої веде зв’язок."
