@@ -137,3 +137,9 @@ msgid ""
 msgstr ""
 "Коли першим полем вибрано поле зв’язку, тут показується модель документа, до"
 " якої веде зв’язок."
+
+#. module: account_invoice_payment_mode_note_template
+#. odoo-python
+#: code:addons/account_invoice_payment_mode_note_template/models/account_payment_mode.py:0
+msgid "Failed to render payment note template."
+msgstr "Не вдалося відобразити шаблон примітки до платежу."
